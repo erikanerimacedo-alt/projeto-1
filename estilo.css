@@ -10,4 +10,6 @@ body{
 }
 .cabecalho{
     background-color: deeppink;
+    display: flex;
+    justify-content: space-between;
 }
