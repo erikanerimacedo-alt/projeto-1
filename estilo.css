@@ -7,9 +7,12 @@
 
 body{
     background-color: red;
+    color:white;
 }
 .cabecalho{
     background-color: deeppink;
     display: flex;
     justify-content: space-between;
+    padding: 15px 25px;
+    align-items: center;
 }
