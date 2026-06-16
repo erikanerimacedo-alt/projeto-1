@@ -8,12 +8,12 @@
 
 
 body{
-    background-color: rgb(119, 0, 0);
+    background-color: rgb(31, 255, 2);
     color:black;
     font-family: "Playfair Display", serif;
 }
 .cabecalho{
-    background-color: rgb(42, 36, 122);
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-between;
     padding: 15px 25px;
