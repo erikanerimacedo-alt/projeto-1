@@ -44,6 +44,14 @@ main{
 
 }
 
-.carato:houver .cartao-interno{
+.cartao:houver .cartao-interno{
     transform: rotate(180deg);
+}
+
+.cartao-verso{
+    transform: rotateY(180deg);
+}
+
+,cartao-frente, .cartao-verso{
+    position: ;
 }
