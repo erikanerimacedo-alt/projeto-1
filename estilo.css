@@ -45,11 +45,9 @@ main{
 
 }
 
-.cartao-interno{
-    transform-style: preserve-3d;
-}
 
-.cartao:houver .cartao-interno{
+
+.cartao:hover .cartao-interno{
     transform: rotate(180deg);
 }
 
