@@ -48,7 +48,7 @@ main{
 
 
 .cartao:hover .cartao-interno{
-    transform: rotate(180deg);
+    transform: rotateY(180deg);
 }
 
 .cartao-verso{
