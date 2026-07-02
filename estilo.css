@@ -66,3 +66,7 @@ section{
     display: flex;
     gap: 16px;
 }
+.img-cartao{
+    width: 100%;
+    height: 200px;
+}
